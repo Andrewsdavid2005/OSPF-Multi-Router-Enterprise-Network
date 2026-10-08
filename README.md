@@ -7,7 +7,7 @@ alternate routing path.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **OSPF Multi-Router Enterprise Network** is a simulated enterprise
 network built using Cisco Packet Tracer.
@@ -25,7 +25,7 @@ router.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project are:
 
